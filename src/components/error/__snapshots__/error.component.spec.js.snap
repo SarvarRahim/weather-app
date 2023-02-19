@@ -1,0 +1,1160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Error component 1`] = `
+<DocumentFragment>
+  .c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 10rem;
+  padding: 0 4rem;
+  background-color: #ffffff;
+}
+
+.c6 > div:nth-child(2) {
+  margin-right: 0;
+  margin-left: auto;
+}
+
+.c5 {
+  width: 2rem;
+  height: 2rem;
+  fill: #000000;
+  -webkit-transition-duration: 200ms;
+  transition-duration: 200ms;
+}
+
+.c5[disabled] {
+  opacity: 0.2;
+}
+
+.c27 {
+  width: 12px;
+  height: 12px;
+  fill: #000000;
+  stroke: #000000;
+  -webkit-transition-duration: 200ms;
+  transition-duration: 200ms;
+}
+
+.c27[disabled] {
+  opacity: 0.2;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-column-gap: 1.2rem;
+  column-gap: 1.2rem;
+  border: none;
+  background-color: transparent;
+  padding: 0.2rem;
+  font-family: ManropeSemiBold;
+  -webkit-transition-duration: 200ms;
+  transition-duration: 200ms;
+}
+
+.c9 > svg {
+  width: 2rem;
+  height: 2rem;
+  fill: #a6a6a6;
+  stroke: none;
+}
+
+.c9[disabled] {
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  opacity: 0.6;
+}
+
+.c9[disabled] > svg {
+  opacity: 0.3;
+}
+
+.c29 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-column-gap: 1rem;
+  column-gap: 1rem;
+  border: none;
+  background-color: transparent;
+  padding: 0.2rem;
+  font-family: ManropeSemiBold;
+  -webkit-transition-duration: 200ms;
+  transition-duration: 200ms;
+}
+
+.c29 > svg {
+  width: 1.6rem;
+  height: 1.6rem;
+  fill: #bfbfbf;
+  stroke: none;
+}
+
+.c29[disabled] {
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  opacity: 0.6;
+}
+
+.c29[disabled] > svg {
+  opacity: 0.3;
+}
+
+.c14 {
+  font-size: 1.6rem;
+  line-height: 2rem;
+  font-family: 'ManropeSemiBold';
+}
+
+.c15 {
+  font-size: 1.4rem;
+  line-height: 1.8rem;
+  font-family: 'ManropeMedium';
+  color: #a6a6a6;
+}
+
+.c12 {
+  width: 4rem;
+  height: 4rem;
+}
+
+.c12 > img {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.c2 a {
+  display: inline-block;
+}
+
+.c2 > img {
+  width: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: initial;
+  -ms-flex-direction: initial;
+  flex-direction: initial;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 3.6rem;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: initial;
+  -ms-flex-direction: initial;
+  flex-direction: initial;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  -webkit-align-items: initial;
+  -webkit-box-align: initial;
+  -ms-flex-align: initial;
+  align-items: initial;
+  gap: 1.6rem;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
+  -webkit-align-items: initial;
+  -webkit-box-align: initial;
+  -ms-flex-align: initial;
+  align-items: initial;
+  gap: 0.2rem;
+}
+
+.c20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: initial;
+  -ms-flex-direction: initial;
+  flex-direction: initial;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c30 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: initial;
+  -ms-flex-direction: initial;
+  flex-direction: initial;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-align-items: flex-start;
+  -webkit-box-align: flex-start;
+  -ms-flex-align: flex-start;
+  align-items: flex-start;
+}
+
+.c10 {
+  position: relative;
+  cursor: pointer;
+}
+
+.c10 h5 {
+  color: #000;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0,0,0.2,0.3);
+  overflow: hidden;
+  height: 0;
+  width: 0;
+  z-index: 0;
+}
+
+.c17 {
+  padding: 24px 24px 30px 24px;
+  background-color: #fff;
+  box-shadow: 0px 6px 30px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+
+.c18 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 30px;
+}
+
+.c28 {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 9;
+  width: 100%;
+  background: #ffffff;
+}
+
+.c28 ul {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c19 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  -webkit-letter-spacing: 0.02em;
+  -moz-letter-spacing: 0.02em;
+  -ms-letter-spacing: 0.02em;
+  letter-spacing: 0.02em;
+  color: #000000;
+  margin-bottom: 24px;
+}
+
+.c21 {
+  padding: 6px 12px;
+  border: 1px solid #3D444F;
+  border-radius: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 100%;
+  text-align: center;
+  background-color: #fff;
+  cursor: pointer;
+  color: #0D1523;
+  outline: none;
+  margin-left: 0;
+}
+
+.c22 {
+  padding: 6px 12px;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 100%;
+  text-align: center;
+  background-color: #FF5454;
+  cursor: pointer;
+  color: #fff;
+  outline: none;
+  margin-left: 10px;
+}
+
+.c8 {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.c8 > span {
+  position: absolute;
+  top: 0.4rem;
+  right: 0.5rem;
+  display: block;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 10rem;
+  background-color: #ba8d5b;
+}
+
+.c8 svg {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.c3 {
+  -webkit-transition: all 0.32s ease;
+  transition: all 0.32s ease;
+}
+
+.c4 {
+  width: 100%;
+  height: 7.2rem;
+  position: relative;
+}
+
+.c4 svg {
+  width: 2.5rem;
+  height: 2.5rem;
+  fill: #bfbfbf;
+  position: absolute;
+  left: 3.5rem;
+}
+
+.c4 a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  color: #000;
+  font-weight: 600;
+  padding-left: 9rem;
+}
+
+.c4 a::before {
+  content: '';
+  display: none;
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 0.3rem;
+  height: 100%;
+  background-color: #ba8d5b;
+}
+
+.c4 a:hover {
+  background-color: #f8f4ef;
+}
+
+.c4 .active-link {
+  background-color: #f8f4ef;
+}
+
+.c4 .active-link svg {
+  fill: #ba8d5b;
+}
+
+.c4 .active-link::before {
+  display: block;
+}
+
+.c1 {
+  position: fixed;
+  top: 0;
+  background-color: #ffffff;
+  -webkit-transition: width 0.1s linear;
+  transition: width 0.1s linear;
+  display: inline-block;
+  width: 10rem;
+  height: 100vh;
+  z-index: 2;
+}
+
+.c1 .logo {
+  gap: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  width: 30rem;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+}
+
+.c1 .logo p {
+  width: 0%;
+  overflow: hidden;
+  height: 30px;
+  color: #021122;
+  font-weight: 800;
+  -webkit-letter-spacing: 2px;
+  -moz-letter-spacing: 2px;
+  -ms-letter-spacing: 2px;
+  letter-spacing: 2px;
+  font-size: 2rem;
+}
+
+.c1 .logo .btn-img {
+  padding: 1rem;
+  position: absolute;
+  right: -4rem;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.c1 > div:first-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  padding-left: 2rem;
+  width: 100%;
+  height: 10rem;
+  margin-bottom: 3rem;
+  background: #fbfcfd;
+}
+
+.c1 .button-wrapper {
+  position: absolute;
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+  -ms-flex-pack: start;
+  justify-content: start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-left: 2.7rem;
+  width: 100%;
+  height: 7.2rem;
+  margin-bottom: 3rem;
+}
+
+.c1 .button-wrapper svg {
+  width: 2.4rem;
+  height: 2.4rem;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  overflow: auto;
+  background: #e5e5e5;
+}
+
+.c0 .wrapper {
+  margin-left: 10rem;
+  width: 100%;
+}
+
+.c0 .inner-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 2rem;
+  width: 100%;
+  padding: 3.6rem 4rem 2.4rem;
+}
+
+.c0 .inner-wrapper > div {
+  border-radius: 0.4rem;
+}
+
+.c0 .inner-wrapper > div:not(:first-child) {
+  background-color: #ffffff;
+}
+
+.c0 .inner-wrapper > div:first-child {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.c23 {
+  padding: 202px 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  background-color: #fff;
+  box-sizing: border-box;
+  height: 80vh;
+}
+
+.c24 {
+  width: 130px;
+  height: 151px;
+  object-fit: cover;
+  margin-bottom: 24px;
+}
+
+.c25 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  -webkit-letter-spacing: -0.02em;
+  -moz-letter-spacing: -0.02em;
+  -ms-letter-spacing: -0.02em;
+  letter-spacing: -0.02em;
+  color: rgba(0,0,0,0.45);
+  margin-bottom: 48px;
+  max-width: 334px;
+}
+
+.c26 {
+  border: none;
+  background: #ba8d5b;
+  border-radius: 100px;
+  padding: 12px 17px 12px 28px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  -webkit-letter-spacing: -0.02em;
+  -moz-letter-spacing: -0.02em;
+  -ms-letter-spacing: -0.02em;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c26 svg {
+  fill: #fff;
+  margin-left: 12px;
+  stroke: #fff;
+}
+
+@media only screen and (max-width:1024px) {
+  .c6 {
+    height: 6rem;
+    padding: 0 2rem;
+  }
+
+  .c6 > div:nth-child(2) {
+    gap: 2.4rem;
+  }
+}
+
+@media only screen and (min-width:1024px) {
+  .c6 > div:nth-child(1) {
+    display: none;
+  }
+}
+
+@media (max-width:1024px) {
+
+}
+
+@media only screen and (max-width:1024px) {
+  .c2 {
+    width: 5.1rem;
+  }
+}
+
+@media only screen and (max-width:1024px) {
+  .c10 h5,
+  .c10 h6 {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:425px) {
+  .c16 {
+    padding: 0 15px;
+  }
+}
+
+@media only screen and (max-width:425px) {
+  .c17 {
+    padding: 12px;
+  }
+}
+
+@media only screen and (max-width:425px) {
+  .c18 {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+}
+
+@media only screen and (min-width:1024px) {
+  .c28 {
+    display: none;
+  }
+}
+
+@media (max-width:1024px) {
+  .c28 ul {
+    -webkit-box-pack: space-around;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: space-around;
+    justify-content: space-around;
+  }
+}
+
+@media only screen and (max-width:425px) {
+  .c19 {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width:1024px) {
+  .c4 {
+    width: 10%;
+    height: 5rem;
+  }
+
+  .c4 svg {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .c4 a:hover {
+    background-color: transparent;
+  }
+
+  .c4 .active-link {
+    background: transparent;
+  }
+
+  .c4 .active-link svg {
+    fill: #ba8d5b;
+  }
+
+  .c4 .active-link::before {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:1024px) {
+  .c1 {
+    display: none;
+  }
+}
+
+@media (max-width:1024px) {
+  .c0 .wrapper {
+    margin-left: 0;
+  }
+}
+
+@media (max-width:1024px) {
+  .c0 .inner-wrapper {
+    padding: 2.4rem 1rem 6rem;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .c0 .inner-wrapper > div {
+    max-width: initial;
+    min-width: initial;
+  }
+}
+
+@media only screen and (max-width:1700px) {
+  .c23 {
+    height: 75vh;
+  }
+}
+
+@media only screen and (max-width:1024px) {
+  .c24 {
+    width: 100px;
+    height: 116px;
+  }
+}
+
+@media only screen and (max-width:1024px) {
+  .c25 {
+    max-width: 314px;
+    font-size: 18px;
+  }
+}
+
+<div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="logo"
+      >
+        <div
+          class="c2"
+        >
+          <a
+            href="/dashboard"
+          >
+            <img
+              alt="Najot ta'lim logo"
+              src="main-logo.png"
+            />
+          </a>
+        </div>
+        <p>
+          NAJOT TA'LIM
+        </p>
+        <div
+          class="btn-img"
+        >
+          <img
+            alt=""
+            class="burger"
+            src="Vector.png"
+          />
+        </div>
+      </div>
+      <nav
+        class="c3"
+      >
+        <ul>
+          <li
+            class="c4"
+          >
+            <a
+              href="/dashboard"
+            >
+              <svg
+                class="c5"
+              >
+                <use
+                  xlink:href="sprite.svg#home-icon"
+                />
+              </svg>
+            </a>
+          </li>
+          <li
+            class="c4"
+          >
+            <a
+              href="/courses"
+            >
+              <svg
+                class="c5"
+              >
+                <use
+                  xlink:href="sprite.svg#react-icon"
+                />
+              </svg>
+            </a>
+          </li>
+          <li
+            class="c4"
+          >
+            <a
+              href="/payments"
+            >
+              <svg
+                class="c5"
+              >
+                <use
+                  xlink:href="sprite.svg#tab-icon"
+                />
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div
+      class="wrapper"
+    >
+      <header
+        class="c6"
+      >
+        <div
+          class="c2"
+        >
+          <a
+            href="/dashboard"
+          >
+            <img
+              alt="Najot ta'lim logo"
+              src="main-logo.png"
+            />
+          </a>
+        </div>
+        <div
+          class="c7"
+        >
+          <a
+            href="/notifications"
+          >
+            <div
+              class="c8"
+            >
+              <button
+                class="c9"
+                type="button"
+              >
+                <svg
+                  class="c5"
+                >
+                  <use
+                    xlink:href="sprite.svg#bell-icon"
+                  />
+                </svg>
+              </button>
+              <span />
+            </div>
+          </a>
+          <div
+            class="c10"
+          >
+            <div
+              class="c11"
+            >
+              <div
+                class="c12"
+              >
+                <img />
+              </div>
+              <div
+                class="c13"
+                direction="column"
+              >
+                <h5
+                  aria-level="5"
+                  class="c14"
+                  role="heading"
+                />
+                <h6
+                  aria-level="6"
+                  class="c15"
+                  color="#a6a6a6"
+                  role="heading"
+                >
+                  Student
+                </h6>
+              </div>
+            </div>
+            <div
+              class="c16"
+            >
+              <div
+                class="c17"
+              >
+                <h3
+                  class="c18"
+                >
+                  Platformadan chiqish
+                </h3>
+                <div
+                  class=""
+                >
+                  <h4
+                    class="c19"
+                  >
+                    Siz haqiqatdan ham Platformadan chiqmoqchimisiz?
+                  </h4>
+                  <div
+                    class="c20"
+                  >
+                    <button
+                      class="c21"
+                    >
+                      Yo'q
+                    </button>
+                    <button
+                      class="c22"
+                    >
+                      Platformadan chiqish
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div
+        class="inner-wrapper"
+      >
+        <div>
+          <div
+            class="c23"
+            data-testid="error-component"
+          >
+            <img
+              alt="error-img"
+              class="c24"
+              src="error-page.png"
+            />
+            <h3
+              class="c25"
+              data-testid="error-text"
+            >
+              Mock Error Message
+            </h3>
+            <button
+              class="c26"
+              data-testid="to-home-button"
+            >
+              Bosh sahifa
+              <svg
+                class="c27"
+                fill="#fff"
+              >
+                <use
+                  xlink:href="sprite.svg#arrow_right-icon"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="c28"
+    >
+      <ul>
+        <li
+          class="c4"
+        >
+          <a
+            href="/dashboard"
+          >
+            <svg
+              class="c5"
+            >
+              <use
+                xlink:href="sprite.svg#home-icon"
+              />
+            </svg>
+          </a>
+        </li>
+        <li
+          class="c4"
+        >
+          <a
+            href="/courses"
+          >
+            <svg
+              class="c5"
+            >
+              <use
+                xlink:href="sprite.svg#react-icon"
+              />
+            </svg>
+          </a>
+        </li>
+        <li
+          class="c4"
+        >
+          <a
+            href="/payments"
+          >
+            <svg
+              class="c5"
+            >
+              <use
+                xlink:href="sprite.svg#tab-icon"
+              />
+            </svg>
+          </a>
+        </li>
+        <li
+          class="c4"
+        >
+          <a
+            href="/settings"
+          >
+            <svg
+              class="c5"
+            >
+              <use
+                xlink:href="sprite.svg#settings-icon"
+              />
+            </svg>
+          </a>
+        </li>
+        <button
+          class="c29"
+          type="button"
+        >
+          <svg
+            class="c5"
+          >
+            <use
+              xlink:href="sprite.svg#exit-icon"
+            />
+          </svg>
+        </button>
+      </ul>
+      <div
+        class="c16"
+      >
+        <div
+          class="c17"
+        >
+          <h3
+            class="c18"
+          >
+            Platformadan chiqish
+          </h3>
+          <div
+            class=""
+          >
+            <h4
+              class="c19"
+            >
+              Siz haqiqatdan ham Platformadan chiqmoqchimisiz?
+            </h4>
+            <div
+              class="c30"
+            >
+              <button
+                class="c21"
+              >
+                Yo'q
+              </button>
+              <button
+                class="c22"
+              >
+                Platformadan chiqish
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
